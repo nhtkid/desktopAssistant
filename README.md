@@ -23,7 +23,7 @@ I built three iterations of the final app to compare the performance of differen
 
 🎥 **Check out the demo video:**
 
-[![Voice Assistant Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+https://youtu.be/eiCKWsXfc6g
 
 Which one do you think would work the best? Try them out and let me know!
 
