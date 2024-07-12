@@ -106,8 +106,8 @@ Which one do you think would work the best? Try them out and let me know!
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your-username/voice-assistant-scripts/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome!
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
