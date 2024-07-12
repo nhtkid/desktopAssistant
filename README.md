@@ -23,7 +23,8 @@ I built three iterations of the final app to compare the performance of differen
 
 🎥 **Check out the demo video:**
 
-https://youtu.be/eiCKWsXfc6g
+[![Watch the video](https://img.youtube.com/vi/eiCKWsXfc6g/0.jpg)](https://youtu.be/eiCKWsXfc6g)
+
 
 Which one do you think would work the best? Try them out and let me know!
 
